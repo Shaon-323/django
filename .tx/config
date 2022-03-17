@@ -66,3 +66,4 @@ source_lang = en
 file_filter = django/contrib/sites/locale/<lang>/LC_MESSAGES/django.po
 source_file = django/contrib/sites/locale/en/LC_MESSAGES/django.po
 source_lang = en
+source_lang = bangla
